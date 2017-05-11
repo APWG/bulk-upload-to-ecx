@@ -1,2 +1,2 @@
-# Bulk Upload to ECX
+# Bulk Upload to eCX
 Bulk Upload to APWG eCrime eXchange (eCX)
